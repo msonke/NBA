@@ -1,0 +1,8 @@
+*.json
+*.db
+include
+bin
+data
+lib64
+__pycache__
+secrets.py
